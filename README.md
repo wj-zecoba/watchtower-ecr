@@ -1,4 +1,4 @@
-# WatchTower ECR
+# Watchtower ECR
 A docker image based on [containrrr/watchtower](https://github.com/containrrr/watchtower) for use with AWS ECR.
 
 ## Usage
